@@ -1,2 +1,2 @@
-# Genshin-Impact-Account-Switcher
-一款可以多账号储存，能够识别登录二维码的账号切换器。支持米游社扫码添加账号
+# MihoyoGames-AccountSwitcher
+米哈游游戏PC端，识别屏幕二维码切换账号工具
